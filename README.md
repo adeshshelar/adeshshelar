@@ -1,6 +1,6 @@
 ![logo](https://github.com/adeshshelar/adeshshelar/blob/main/logo.jpg)
 <h1 align="center">Hi 👋, I'm Adesh Shelar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://rajacepat.com/assets/frontend/img/webdev.gif">
 
